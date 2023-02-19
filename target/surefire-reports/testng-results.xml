@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="41389" started-at="2023-02-19T23:30:43 BDT" finished-at="2023-02-19T23:31:24 BDT">
+    <groups>
+    </groups>
+    <test name="FlipboardLoginTest" duration-ms="41389" started-at="2023-02-19T23:30:43 BDT" finished-at="2023-02-19T23:31:24 BDT">
+      <class name="com.sohel.mobile.automation.testcases.FlipboardLoginTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.sohel.mobile.automation.testcases.FlipboardLoginTest@453da22c]" name="init" is-config="true" duration-ms="8967" started-at="2023-02-19T23:30:43 BDT" finished-at="2023-02-19T23:30:52 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="validateGetStartedScreen()[pri:1, instance:com.sohel.mobile.automation.testcases.FlipboardLoginTest@453da22c]" name="validateGetStartedScreen" duration-ms="10294" started-at="2023-02-19T23:30:52 BDT" finished-at="2023-02-19T23:31:02 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGetStartedScreen -->
+        <test-method status="PASS" signature="validateChooseTopicsScreen()[pri:2, instance:com.sohel.mobile.automation.testcases.FlipboardLoginTest@453da22c]" name="validateChooseTopicsScreen" duration-ms="6216" started-at="2023-02-19T23:31:02 BDT" finished-at="2023-02-19T23:31:08 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateChooseTopicsScreen -->
+        <test-method status="PASS" signature="validateSkipLogin()[pri:3, instance:com.sohel.mobile.automation.testcases.FlipboardLoginTest@453da22c]" name="validateSkipLogin" duration-ms="10497" started-at="2023-02-19T23:31:08 BDT" finished-at="2023-02-19T23:31:19 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSkipLogin -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.sohel.mobile.automation.testcases.FlipboardLoginTest@453da22c]" name="quitDriver" is-config="true" duration-ms="5384" started-at="2023-02-19T23:31:19 BDT" finished-at="2023-02-19T23:31:24 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.sohel.mobile.automation.testcases.FlipboardLoginTest -->
+    </test> <!-- FlipboardLoginTest -->
+  </suite> <!-- Suite -->
+</testng-results>

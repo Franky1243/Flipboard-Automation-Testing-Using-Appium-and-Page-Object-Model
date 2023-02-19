@@ -1,0 +1,4 @@
+com\sohel\mobile\automation\screens\GetStartedScreen.class
+com\sohel\mobile\automation\screens\ChooseTopicsScreen.class
+com\sohel\mobile\automation\base\ScreenBase.class
+com\sohel\mobile\automation\screens\SkipLogin.class
